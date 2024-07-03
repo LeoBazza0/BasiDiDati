@@ -1,0 +1,5 @@
+la cartela ProgettoBazza va messa dentro htdocs cosi com'è
+al massimo modifico leggermente il percorso ma su quello ci siamo
+
+su xampp (applicazione) accendo il server Apache e poi su un browser cerco localhost e dovrei trovare la prima pagina 
+
